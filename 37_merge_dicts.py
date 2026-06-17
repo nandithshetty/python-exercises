@@ -1,7 +1,7 @@
-# Contribution hash: c43a0ced946c6cfd
-# Date: 2026-06-09 19:52:38
 # Exercise 37: Merge Dictionaries
 # Task: Write a function to merge two dictionaries (handling key overlaps).
+# hash: c43a0ced946c6cfd
+# Date: 2026-06-09 19:52:38
 
 def merge_dicts(d1, d2):
     res = d1.copy()
